@@ -10,15 +10,15 @@
 
 ###
 
+<img data-importer="image" align="right" height="150" src="https://static.vecteezy.com/system/resources/previews/019/850/793/non_2x/office-worker-tired-and-worried-man-working-deadline-in-laptop-or-computer-notebook-late-night-time-overtime-o-t-flat-free-vector.jpg"  />
+
+###
+
 <h6 data-importer="text" align="left">🔭 I’m currently working on building my skills and personality<br>🌱 learning Android development, Java backend, Python, and Japanese <br>👯 looking to collaborate on beginner-friendly Android or web development projects<br>🤔 looking for help with advanced coding concepts, real-world project building, and system design basics<br>📫 How to reach me: mdsaifulislamon@gmail.com<br>⚡ Fun fact: I’m learning multiple languages (Chinese + Japanese and more...) while building coding skills at the same time 🚀</h6>
 
 ###
 
 <h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://static.vecteezy.com/system/resources/previews/019/850/793/non_2x/office-worker-tired-and-worried-man-working-deadline-in-laptop-or-computer-notebook-late-night-time-overtime-o-t-flat-free-vector.jpg"  />
 
 ###
 
@@ -64,10 +64,6 @@
   <img src="https://raw.githubusercontent.com/Saiful07-cell/Saiful07-cell/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Saiful07-cell/Saiful07-cell/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Saiful07-cell/Saiful07-cell/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
